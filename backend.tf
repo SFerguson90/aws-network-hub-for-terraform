@@ -1,7 +1,7 @@
 /* Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
    SPDX-License-Identifier: MIT-0 */
 
-# https://www.terraform.io/language/settings/backends/configuration
+# https://developer.hashicorp.com/terraform/language/backend
 
 # HTTP backend
 
